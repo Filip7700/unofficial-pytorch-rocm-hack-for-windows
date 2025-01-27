@@ -123,8 +123,9 @@ It is used for running hipc compiler.
       development - choose either YES or NO, this one is up to you
 3. Click on "Install" button
 
-![AMD HIP SDK installer options 1](Imgs/AMD HIP SDK Install Part 1.bmp)
-![AMD HIP SDK installer options 2](Imgs/AMD HIP SDK Install Part 2.bmp)
+![AMD HIP SDK installer options 1](Imgs/amd-hip-sdk-install-part1.bmp)
+
+![AMD HIP SDK installer options 2](Imgs/amd-hip-sdk-install-part2.bmp)
 
 ### ZLUDA setup
 
@@ -168,21 +169,21 @@ administrator permission is not required.
    "Change my environment variables" option, located on the left column
    (should be the last option in column).
    The environment variables window will pop out.
-   ![Change my environment variables option location](Imgs/Environment Variables 1.bmp)
+   ![Change my environment variables option location](Imgs/environment-variables-1.bmp)
 4. Select "Path" variable inside the upper window section, and click on
    "Edit..." button.
    The environment variable edit window will pop out.
-   ![Selecting Path environment variable and editing it](Imgs/Environment Variables 2.bmp)
+   ![Selecting Path environment variable and editing it](Imgs/environment-variables-2.bmp)
 5. Inside environment variable edit window, click on button "New" and enter
    the location of where the "zluda" folder is extracted
    (e.g. D:\Programs\ZLUDA\zluda).
-   ![Adding "zluda" folder to PATH environment variable](Imgs/Environment Variables 3.bmp)
+   ![Adding "zluda" folder to PATH environment variable](Imgs/environment-variables-3.bmp)
 6. Inside environment variable edit window, click on button "New" and enter
    the location HIP SDK bin folder.
     - This can be done by exactly entering the following: `%HIP_PATH%bin`
     - The other way is to manually type the location where the HIP SDK is
       installed (e.g. C:\Program Files\AMD\ROCm\6.2\bin)
-   ![Adding HIP SDK bin folder to PATH environment variable](Imgs/Environment Variables 4.bmp)
+   ![Adding HIP SDK bin folder to PATH environment variable](Imgs/environment-variables-4.bmp)
 
 ### Python environment setup
 
