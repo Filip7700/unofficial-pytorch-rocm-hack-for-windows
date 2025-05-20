@@ -1,5 +1,9 @@
 # Unofficial PyTorch ROCm hack for Windows
 
+Note: It is now possible to get `torch` and `rocm` working natively on windows, see https://github.com/ROCm/TheRock
+
+---
+
 This small project aims to setup minimal requirements in order to run
 PyTorch computatiuons on AMD Radeon GPUs on Windows 10 and Windows 11 PCs as
 natively as possible.
