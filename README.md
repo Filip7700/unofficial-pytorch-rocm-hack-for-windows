@@ -273,3 +273,15 @@ that everything is working successfully.
 Congradulations, you are now ready to program all your favorite ML, AI
 and LLM models!
 Happy coding!
+
+## NOTES
+
+This repository is not needed anymore, and has been archived.
+There are unofficial pre-built Python packages which work with PyTorch natively on Windows.
+
+Please check out the following links to get familiar with the project,
+or download and install PyTorch packages.
+
+1. [TheRock project](https://github.com/ROCm/TheRock)
+2. [Setup and install documentation](https://github.com/ROCm/TheRock/blob/main/RELEASES.md)
+3. [ROCm nightly repository](https://rocm.nightlies.amd.com/v2)
